@@ -1,4 +1,5 @@
-
+/*My earliest jQuery code. Was pretty cool at the time. 
+This was built with an ASP.NET MVC app where the user's comments would branch out with replies 
     /* JQuery script toggles replies*/
     function ToggleChildDivs(id) {
         var count = $("." + id).length;
