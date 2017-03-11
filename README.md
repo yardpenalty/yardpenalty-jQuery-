@@ -1,2 +1,1 @@
-# yardpenalty.com
-Wordpress site for fantasy football fans
+# yardpenalty's jQuery library from past projects
